@@ -897,9 +897,11 @@ loadingData.then(callback);
 
 ```javascript
 /**
- * @file Describe the file
- * @author author-name(mail-name@domain.com)
- *         author-name2(mail-name2@domain.com)
+ * @Author: wangliang
+ * @Date:   2017/5/4
+ * @Last Modified by:   wangliang
+ * @Last Modified time: 2017/5/4
+ * @file 首页脚本
  */
 ```
 
